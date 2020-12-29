@@ -10,8 +10,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".presentation.Account.CreateAccountActivity"
-                  android:parentActivityName=".presentation.main.MainActivity"></activity>
+        <activity
+            android:name=".presentation.account.CreateAccountActivity"
+            android:parentActivityName=".presentation.main.MainActivity" />
         <activity android:name=".presentation.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import com.example.projetandroid_kotlin_4a.R
-import com.example.projetandroid_kotlin_4a.presentation.Account.CreateAccountActivity
+import com.example.projetandroid_kotlin_4a.presentation.account.CreateAccountActivity
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject

@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">ProjetAndroid_Kotlin_4A</string>
+    <string name="app_name">ProjetAndroid_4A</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="LogButton">Login</string>
     <string name="CreateAccount_Button">Create account</string>
+    <string name="create">Create</string>
+    <string name="new_account">Create new account</string>
 </resources>
