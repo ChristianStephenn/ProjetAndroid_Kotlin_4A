@@ -15,14 +15,14 @@ class MainViewModel(
     private val getUserUseCase: GetUserUseCase
 ) : ViewModel(){
 
-    val loginLiveData : MutableLiveData<LoginStatus> = MutableLiveData()
+    val  loginLiveData : MutableLiveData<LoginStatus> = MutableLiveData()
 
     fun onClickedLogin(emailUser: String, password: String) {
         viewModelScope.launch(Dispatchers.IO) {
-            val user : User? =  getUserUseCase.invoke(emailUser)
+            val user : User? =  getUserUseCase.invoke(emailUser, password)
             //createUserUseCase.invoke(User("test"))
             val loginStatus = if(user != null){
-                LoginSuccess(user.email)
+                LoginSuccess(user.email, user.password)
             }else{
                 LoginError
             }

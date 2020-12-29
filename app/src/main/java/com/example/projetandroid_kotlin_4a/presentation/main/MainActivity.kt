@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
                 LoginError -> {
                     MaterialAlertDialogBuilder(this)
                         .setTitle("Error")
-                        .setMessage("Error Mess")
+                        .setMessage("Incorrect login or password")
                         .setPositiveButton("ok") { dialog, which ->
                             dialog.dismiss()
                         }
@@ -32,12 +32,19 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
-        Login_button.setOnClickListener{
-            mainViewModel.onClickedLogin(login_text.text.toString().trim(), password_text.text.toString().trim())
-        }
 
-        /*mainViewModel.counter.observe(this, Observer {
-            value -> main_text.text = value.toString()
-        })*/
+        Login_button.setOnClickListener{
+            if(login_text.text.toString().trim().equals("") || password_text.text.toString().trim().equals("")){
+                MaterialAlertDialogBuilder(this)
+                    .setTitle("Error")
+                    .setMessage("Login or password is empty")
+                    .setPositiveButton("ok") { dialog, which ->
+                        dialog.dismiss()
+                    }
+                    .show()
+            }else{
+                mainViewModel.onClickedLogin(login_text.text.toString().trim(), password_text.text.toString().trim())
+            }
+        }
     }
 }
