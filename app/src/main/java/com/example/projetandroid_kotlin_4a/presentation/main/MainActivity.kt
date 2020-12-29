@@ -1,9 +1,11 @@
 package com.example.projetandroid_kotlin_4a.presentation.main
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import com.example.projetandroid_kotlin_4a.R
+import com.example.projetandroid_kotlin_4a.presentation.Account.CreateAccountActivity
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject
@@ -45,6 +47,11 @@ class MainActivity : AppCompatActivity() {
             }else{
                 mainViewModel.onClickedLogin(login_text.text.toString().trim(), password_text.text.toString().trim())
             }
+        }
+
+        CreateAccount_button.setOnClickListener {
+            val intent = Intent(this, CreateAccountActivity::class.java)
+            startActivity(intent)
         }
     }
 }
