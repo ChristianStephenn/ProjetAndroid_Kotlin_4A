@@ -21,13 +21,21 @@ class MainActivity : AppCompatActivity() {
         mainViewModel.loginLiveData.observe(this, Observer {
             when(it){
                 is LoginSuccess -> {
-                    TODO()
+                    //TODO()
+                    MaterialAlertDialogBuilder(this)
+                        .setTitle("Success")
+                        .setMessage("Connected")
+                        .setPositiveButton("ok") { dialog, which ->
+                            dialog.dismiss()
+                        }
+                        .show()
                 }
                 LoginError -> {
                     MaterialAlertDialogBuilder(this)
                         .setTitle("Error")
                         .setMessage("Incorrect login or password")
                         .setPositiveButton("ok") { dialog, which ->
+                            password_text.setText("")
                             dialog.dismiss()
                         }
                         .show()
@@ -41,6 +49,7 @@ class MainActivity : AppCompatActivity() {
                     .setTitle("Error")
                     .setMessage("Login or password is empty")
                     .setPositiveButton("ok") { dialog, which ->
+                        password_text.setText("")
                         dialog.dismiss()
                     }
                     .show()

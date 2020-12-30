@@ -19,10 +19,13 @@ class CreateAccountActivity : AppCompatActivity() {
         createAccountViewModel.createLiveData.observe(this, Observer {
             when (it) {
                 CreateSuccess -> {
+                    //TODO()
                     MaterialAlertDialogBuilder(this)
                         .setTitle("Success")
                         .setMessage("Account created.")
                         .setPositiveButton("ok") { dialog, which ->
+                            create_login_text.setText("")
+                            create_password_text.setText("")
                             dialog.dismiss()
                         }
                         .show()
@@ -32,6 +35,7 @@ class CreateAccountActivity : AppCompatActivity() {
                         .setTitle("Error")
                         .setMessage("Account already exists.")
                         .setPositiveButton("ok") { dialog, which ->
+                            create_password_text.setText("")
                             dialog.dismiss()
                         }
                         .show()
@@ -46,6 +50,7 @@ class CreateAccountActivity : AppCompatActivity() {
                     .setTitle("Error")
                     .setMessage("Login or password is empty")
                     .setPositiveButton("ok") { dialog, which ->
+                        create_password_text.setText("")
                         dialog.dismiss()
                     }
                     .show()

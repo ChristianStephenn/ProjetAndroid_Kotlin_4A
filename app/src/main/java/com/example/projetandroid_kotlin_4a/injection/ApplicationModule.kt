@@ -14,7 +14,7 @@ import org.koin.dsl.module
 
 val presentationModule = module {
     factory { MainViewModel(get(), get()) }
-    factory { CreateAccountViewModel(get()) }
+    factory { CreateAccountViewModel(get(),get()) }
 }
 
 val domainModule = module {
