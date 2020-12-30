@@ -22,7 +22,7 @@
 </ul>
 <div>
   <img src="imgREADME/Screenshot_20201230-235627_ProjetAndroid_4A[1].jpg" width="25%" height="25%"> 
-  <img src="img/imgReadMe/ListChampion2.jpg" width="25%" height="25%">
+  <img src="imgREADME/Screenshot_20201230-234449_ProjetAndroid_4A[1].jpg" width="25%" height="25%">
 </div>
 <h3>
   Écran avec une liste, écran affichait si un utilisateur est connecté
