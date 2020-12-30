@@ -6,4 +6,7 @@
     <string name="CreateAccount_Button">Create account</string>
     <string name="create">Create</string>
     <string name="new_account">Create new account</string>
+    <string name="description_text">Class or origin</string>
+    <string name="title_text">Name</string>
+    <string name="todo_text">img</string>
 </resources>
