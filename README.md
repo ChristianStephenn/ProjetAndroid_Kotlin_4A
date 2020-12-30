@@ -21,7 +21,7 @@
   <li>Contient un bouton "Create"</li>
 </ul>
 <div>
-  <img src="ProjetAndroid_Kotlin_4A/imgREADME/Screenshot_20201230-235627_ProjetAndroid_4A[1].jpg" width="25%" height="25%"> 
+  <img src="imgREADME/Screenshot_20201230-235627_ProjetAndroid_4A[1].jpg" width="25%" height="25%"> 
   <img src="img/imgReadMe/ListChampion2.jpg" width="25%" height="25%">
 </div>
 <h3>
