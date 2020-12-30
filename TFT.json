@@ -1,0 +1,965 @@
+[
+  {
+    "name": "Fiora",
+    "icon": "fiora",
+    "cost": 1,
+    "traits": [
+      "Cybernetic",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "icon": "irelia",
+    "cost": 4,
+    "traits": [
+      "Cybernetic",
+      "Mana-Reaver",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "icon": "kayle",
+    "cost": 4,
+    "traits": [
+      "Valkyrie",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Master Yi",
+    "icon": "masteryi",
+    "cost": 3,
+    "traits": [
+      "Rebel",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Shen",
+    "icon": "shen",
+    "cost": 2,
+    "traits": [
+      "Chrono",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Xayah",
+    "icon": "xayah",
+    "cost": 1,
+    "traits": [
+      "Celestial",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Yasuo",
+    "icon": "yasuo",
+    "cost": 2,
+    "traits": [
+      "Rebel",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "icon": "ezreal",
+    "cost": 3,
+    "traits": [
+      "Chrono",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Graves",
+    "icon": "graves",
+    "cost": 1,
+    "traits": [
+      "Space Pirate",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "icon": "jinx",
+    "cost": 4,
+    "traits": [
+      "Rebel",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "icon": "lucian",
+    "cost": 2,
+    "traits": [
+      "Cybernetic",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Miss Fortune",
+    "icon": "missfortune",
+    "cost": 5,
+    "traits": [
+      "Valkyrie",
+      "Mercenary",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "icon": "blitzcrank",
+    "cost": 2,
+    "traits": [
+      "Chrono",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Cho'Gath",
+    "icon": "chogath",
+    "cost": 4,
+    "traits": [
+      "Void",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Malphite",
+    "icon": "malphite",
+    "cost": 1,
+    "traits": [
+      "Rebel",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Vi",
+    "icon": "vi",
+    "cost": 3,
+    "traits": [
+      "Cybernetic",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "icon": "ashe",
+    "cost": 3,
+    "traits": [
+      "Celestial",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "icon": "kassadin",
+    "cost": 3,
+    "traits": [
+      "Celestial",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "icon": "lulu",
+    "cost": 5,
+    "traits": [
+      "Celestial",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "icon": "rakan",
+    "cost": 2,
+    "traits": [
+      "Celestial",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Xayah",
+    "icon": "xayah",
+    "cost": 1,
+    "traits": [
+      "Celestial",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Xin Zhao",
+    "icon": "xinzhao",
+    "cost": 2,
+    "traits": [
+      "Celestial",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "icon": "blitzcrank",
+    "cost": 2,
+    "traits": [
+      "Chrono",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "icon": "caitlyn",
+    "cost": 1,
+    "traits": [
+      "Chrono",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "icon": "ezreal",
+    "cost": 3,
+    "traits": [
+      "Chrono",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Shen",
+    "icon": "shen",
+    "cost": 2,
+    "traits": [
+      "Chrono",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Thresh",
+    "icon": "thresh",
+    "cost": 5,
+    "traits": [
+      "Chrono",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Twisted Fate",
+    "icon": "twistedfate",
+    "cost": 1,
+    "traits": [
+      "Chrono",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "icon": "wukong",
+    "cost": 4,
+    "traits": [
+      "Chrono",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "icon": "ekko",
+    "cost": 5,
+    "traits": [
+      "Cybernetic",
+      "Infiltrato"
+    ]
+  },
+  {
+    "name": "Fiora",
+    "icon": "fiora",
+    "cost": 1,
+    "traits": [
+      "Cybernetic",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "icon": "irelia",
+    "cost": 4,
+    "traits": [
+      "Cybernetic",
+      "Mana-Reaver",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Leona",
+    "icon": "leona",
+    "cost": 1,
+    "traits": [
+      "Cybernetic",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "icon": "lucian",
+    "cost": 2,
+    "traits": [
+      "Cybernetic",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Vi",
+    "icon": "vi",
+    "cost": 3,
+    "traits": [
+      "Cybernetic",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Jarvan IV",
+    "icon": "jarvaniv",
+    "cost": 1,
+    "traits": [
+      "Dark Star",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "icon": "jhin",
+    "cost": 4,
+    "traits": [
+      "Dark Star",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Karma",
+    "icon": "karma",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Lux",
+    "icon": "lux",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "icon": "mordekaiser",
+    "cost": 2,
+    "traits": [
+      "Dark Star",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Shaco",
+    "icon": "shaco",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Xerath",
+    "icon": "xerath",
+    "cost": 5,
+    "traits": [
+      "Dark Star",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "icon": "gangplank",
+    "cost": 5,
+    "traits": [
+      "Space Pirate",
+      "Mercenary",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Rumble",
+    "icon": "rumble",
+    "cost": 3,
+    "traits": [
+      "Mech-Pilot",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Ziggs",
+    "icon": "ziggs",
+    "cost": 1,
+    "traits": [
+      "Rebel",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Kai'Sa",
+    "icon": "kaisa",
+    "cost": 2,
+    "traits": [
+      "Valkyrie",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Kha'Zix",
+    "icon": "khazix",
+    "cost": 1,
+    "traits": [
+      "Void",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Shaco",
+    "icon": "shaco",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Fizz",
+    "icon": "fizz",
+    "cost": 4,
+    "traits": [
+      "Mech-Pilot",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Darius",
+    "icon": "darius",
+    "cost": 2,
+    "traits": [
+      "Space Pirate",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "icon": "irelia",
+    "cost": 4,
+    "traits": [
+      "Cybernetic",
+      "Mana-Reaver",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "icon": "kassadin",
+    "cost": 3,
+    "traits": [
+      "Celestial",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Thresh",
+    "icon": "thresh",
+    "cost": 5,
+    "traits": [
+      "Chrono",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Annie",
+    "icon": "annie",
+    "cost": 2,
+    "traits": [
+      "Mech-Pilot",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Fizz",
+    "icon": "fizz",
+    "cost": 4,
+    "traits": [
+      "Mech-Pilot",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Rumble",
+    "icon": "rumble",
+    "cost": 3,
+    "traits": [
+      "Mech-Pilot",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "icon": "gangplank",
+    "cost": 5,
+    "traits": [
+      "Space Pirate",
+      "Mercenary",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Miss Fortune",
+    "icon": "missfortune",
+    "cost": 5,
+    "traits": [
+      "Valkyrie",
+      "Mercenary",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Karma",
+    "icon": "karma",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "icon": "lulu",
+    "cost": 5,
+    "traits": [
+      "Celestial",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Sona",
+    "icon": "sona",
+    "cost": 2,
+    "traits": [
+      "Rebel",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Soraka",
+    "icon": "soraka",
+    "cost": 4,
+    "traits": [
+      "Star Guardian",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Jarvan IV",
+    "icon": "jarvaniv",
+    "cost": 1,
+    "traits": [
+      "Dark Star",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Neeko",
+    "icon": "neeko",
+    "cost": 3,
+    "traits": [
+      "Star Guardian",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "icon": "rakan",
+    "cost": 2,
+    "traits": [
+      "Celestial",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Xin Zhao",
+    "icon": "xinzhao",
+    "cost": 2,
+    "traits": [
+      "Celestial",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Aurelion Sol",
+    "icon": "aurelionsol",
+    "cost": 5,
+    "traits": [
+      "Rebel",
+      "Starship"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "icon": "jinx",
+    "cost": 4,
+    "traits": [
+      "Rebel",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Malphite",
+    "icon": "malphite",
+    "cost": 1,
+    "traits": [
+      "Rebel",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Master Yi",
+    "icon": "masteryi",
+    "cost": 3,
+    "traits": [
+      "Rebel",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Sona",
+    "icon": "sona",
+    "cost": 2,
+    "traits": [
+      "Rebel",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Yasuo",
+    "icon": "yasuo",
+    "cost": 2,
+    "traits": [
+      "Rebel",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Ziggs",
+    "icon": "ziggs",
+    "cost": 1,
+    "traits": [
+      "Rebel",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "icon": "ashe",
+    "cost": 3,
+    "traits": [
+      "Celestial",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "icon": "caitlyn",
+    "cost": 1,
+    "traits": [
+      "Chrono",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "icon": "jhin",
+    "cost": 4,
+    "traits": [
+      "Dark Star",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Ahri",
+    "icon": "ahri",
+    "cost": 2,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Annie",
+    "icon": "annie",
+    "cost": 2,
+    "traits": [
+      "Mech-Pilot",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Lux",
+    "icon": "lux",
+    "cost": 3,
+    "traits": [
+      "Dark Star",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "icon": "syndra",
+    "cost": 3,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Twisted Fate",
+    "icon": "twistedfate",
+    "cost": 1,
+    "traits": [
+      "Chrono",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Vel'Koz",
+    "icon": "velkoz",
+    "cost": 4,
+    "traits": [
+      "Void",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Xerath",
+    "icon": "xerath",
+    "cost": 5,
+    "traits": [
+      "Dark Star",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "icon": "zoe",
+    "cost": 1,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Darius",
+    "icon": "darius",
+    "cost": 2,
+    "traits": [
+      "Space Pirate",
+      "Mana-Reaver"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "icon": "gangplank",
+    "cost": 5,
+    "traits": [
+      "Space Pirate",
+      "Mercenary",
+      "Demolitionist"
+    ]
+  },
+  {
+    "name": "Graves",
+    "icon": "graves",
+    "cost": 1,
+    "traits": [
+      "Space Pirate",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "icon": "jayce",
+    "cost": 3,
+    "traits": [
+      "Space Pirate",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Ahri",
+    "icon": "ahri",
+    "cost": 2,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Neeko",
+    "icon": "neeko",
+    "cost": 3,
+    "traits": [
+      "Star Guardian",
+      "Protector"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "icon": "poppy",
+    "cost": 1,
+    "traits": [
+      "Star Guardian",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Soraka",
+    "icon": "soraka",
+    "cost": 4,
+    "traits": [
+      "Star Guardian",
+      "Mystic"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "icon": "syndra",
+    "cost": 3,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "icon": "zoe",
+    "cost": 1,
+    "traits": [
+      "Star Guardian",
+      "Sorcerer"
+    ]
+  },
+  {
+    "name": "Aurelion Sol",
+    "icon": "aurelionsol",
+    "cost": 5,
+    "traits": [
+      "Rebel",
+      "Starship"
+    ]
+  },
+  {
+    "name": "Kai'Sa",
+    "icon": "kaisa",
+    "cost": 2,
+    "traits": [
+      "Valkyrie",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "icon": "kayle",
+    "cost": 4,
+    "traits": [
+      "Valkyrie",
+      "Blademaster"
+    ]
+  },
+  {
+    "name": "Miss Fortune",
+    "icon": "missfortune",
+    "cost": 5,
+    "traits": [
+      "Valkyrie",
+      "Mercenary",
+      "Blaster"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "icon": "jayce",
+    "cost": 3,
+    "traits": [
+      "Space Pirate",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Leona",
+    "icon": "leona",
+    "cost": 1,
+    "traits": [
+      "Cybernetic",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "icon": "mordekaiser",
+    "cost": 2,
+    "traits": [
+      "Dark Star",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "icon": "poppy",
+    "cost": 1,
+    "traits": [
+      "Star Guardian",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "icon": "wukong",
+    "cost": 4,
+    "traits": [
+      "Chrono",
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Cho'Gath",
+    "icon": "chogath",
+    "cost": 4,
+    "traits": [
+      "Void",
+      "Brawler"
+    ]
+  },
+  {
+    "name": "Kha'Zix",
+    "icon": "khazix",
+    "cost": 1,
+    "traits": [
+      "Void",
+      "Infiltrator"
+    ]
+  },
+  {
+    "name": "Vel'Koz",
+    "icon": "velkoz",
+    "cost": 4,
+    "traits": [
+      "Void",
+      "Sorcerer"
+    ]
+  }
+]
