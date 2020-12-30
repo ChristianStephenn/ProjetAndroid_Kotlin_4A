@@ -12,7 +12,7 @@
 </ul>
 <img src="img/imgReadMe/ListeClassesOrigines.jpg" width="25%" height="25%">
 <h3>
-  Écran création de compte, un message d'erreur apparaît si le compte est crée, si le nom est déjà utilisé ou qu'un champ est vide :
+  Écran création du compte, un message d'erreur apparaît si le compte est créé, si le nom est déjà utilisé ou qu'un champ est vide :
 </h3>
 <ul>
   <li>Contient les champs "Login" et "Password"</li>
